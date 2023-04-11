@@ -19,7 +19,7 @@ const ques = ref([
 		answer: 0,
 		options: [
 			'Barbatos',
-			'Barbatos 4th form',
+			'Barbatos 6th form',
 			'Barbatos Lupus',
 			'Barbatos Lupus Rex'
 		],
@@ -30,7 +30,7 @@ const ques = ref([
 		answer: 2,
 		options: [
 			'Barbatos',
-			'Barbatos 4th form',
+			'Barbatos 6th form',
 			'Barbatos Lupus',
 			'Barbatos Lupus Rex'
 		],
@@ -41,7 +41,7 @@ const ques = ref([
 		answer: 3,
 		options: [
 			'Barbatos',
-			'Barbatos 4th form',
+			'Barbatos 6th form',
 			'Barbatos Lupus',
 			'Barbatos Lupus Rex'
 		],
