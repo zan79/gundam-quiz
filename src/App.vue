@@ -135,7 +135,7 @@ const ques = ref([
 		],
 		selected: null
 	},
-	{//00q
+	{//ta
 		question: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71AUiPvIO1L._AC_SY606_.jpg',
 		answer: 0,
 		options: [
@@ -148,7 +148,7 @@ const ques = ref([
 	},
 	{//nu
 		question: 'https://i.ebayimg.com/images/g/WT8AAOSwaMNjgcOD/s-l1600.png',
-		answer: 0,
+		answer: 2,
 		options: [
 			'Turn A Gundam',
 			'Gundam',
@@ -159,7 +159,7 @@ const ques = ref([
 	},
 	{//f91
 		question: 'https://d3nt9em9l1urz8.cloudfront.net/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/b/i/bibas61067-1.jpg',
-		answer: 0,
+		answer: 3,
 		options: [
 			'Turn A Gundam',
 			'Gundam',
